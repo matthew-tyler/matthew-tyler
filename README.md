@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I study Computer Science at the University of Otago and work there as a research assistant and lab demonstrator. In my spare time I run the Otago Computer Science Society (OCSS) and write code. Maybe I should get out more?
+I study Computer Science & Software Engineering at the University of Otago and work there as a research assistant and lab demonstrator. In my spare time I run the Otago Computer Science Society (OCSS) and write code. Maybe I should get out more?
 
 <!--
 **matthew-tyler/matthew-tyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
