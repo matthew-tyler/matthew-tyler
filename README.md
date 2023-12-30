@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-I study Computer Science & Software Engineering at the University of Otago. I also work there as a research assistant and lab demonstrator. In my spare time I run the Otago Computer Science Society (OCSS) and write code. Maybe I should get out more?
+~~I study Computer Science & Software Engineering at the University of Otago. I also work there as a research assistant and lab demonstrator. In my spare time I run the Otago Computer Science Society (OCSS) and write code. Maybe I should get out more?~~
+
+I recently graduated with a BSc in Computer Science and Software Engineering from the University of Otago. I just moved to Melbourne and started looking for a job. When I'm not writing code, I'm getting out more.
 
 <!--
 **matthew-tyler/matthew-tyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
